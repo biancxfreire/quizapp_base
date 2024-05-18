@@ -2,7 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Rubik", sans-serif;  
+    font-family: "Rubik", sans-serif;
+
 }
 
 :root {
@@ -42,6 +43,8 @@ header {
     padding: 16px 24px;
     display: flex;
     justify-content: flex-end;
+    max-width: 1160px;
+    margin-inline: auto;
 }
 
 .tema {
