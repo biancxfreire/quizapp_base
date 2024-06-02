@@ -170,7 +170,7 @@ main {
 
     & span {
         background: var(--purple);
-        
+        color: var(--white);
     }
 }
 
